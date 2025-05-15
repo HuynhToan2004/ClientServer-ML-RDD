@@ -1,4 +1,4 @@
-# Client-Server-Simulation-for-Real-Time-Data-Streaming-and-ML-Model-Training-using-RDD
+# ClientServer-ML-RDD
 
 This repository demonstrates how to simulate the process of sending and receiving data using the CIFAR-10 dataset. A machine learning model will be used for training with Spark RDD.
 
